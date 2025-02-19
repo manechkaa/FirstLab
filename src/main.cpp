@@ -6,7 +6,7 @@
 #include "utils.cpp"
 
 int main() {
-    int a = 3;
+    int a = 7;
     int b = 5;
     std::cout << sum(a, b) << '\n';
     std::cout << mult(4, 8) << '\n';
