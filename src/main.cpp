@@ -6,9 +6,14 @@
 #include "utils.cpp"
 
 int main() {
-    int a = 7;
-    int b = 5;
+    int a = 4567;
+    int b = 9999999;
+    
     std::cout << sum(a, b) << '\n';
     std::cout << mult(4, 8) << '\n';
-    std::cout << isprime(7) << " " << isprime(8);
+    std::cout << isprime(7) << " " << isprime(8) << '\n';
+
+    for (int i = 0; i < 10; i++) std::cout << "Hello World!\n";
+
+    return 0;
 }
