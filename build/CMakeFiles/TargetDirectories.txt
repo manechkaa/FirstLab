@@ -1,3 +1,0 @@
-C:/Users/Professional/Documents/GitHub/FirstLab/build/CMakeFiles/FirstLab.dir
-C:/Users/Professional/Documents/GitHub/FirstLab/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Professional/Documents/GitHub/FirstLab/build/CMakeFiles/ZERO_CHECK.dir
