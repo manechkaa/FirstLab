@@ -1,3 +1,0 @@
-C:/Users/Professional/Documents/GitHub/FirstLab/cmake-build-debug/CMakeFiles/FirstLab.dir
-C:/Users/Professional/Documents/GitHub/FirstLab/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Professional/Documents/GitHub/FirstLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
