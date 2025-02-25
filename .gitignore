@@ -31,13 +31,18 @@
 *.out
 *.app
 
-# Studio Code
 .vs
-.vscode
-out
+.bin.dbg
+.build
+.out
 
-# Build Artifacts
-build
-build.*
-bin
-bin.*
+/build/
+/dist/
+/out/
+/target/
+/release/
+/debug/
+/bin.dbg/
+*.log
+*.tmp
+*.bak
