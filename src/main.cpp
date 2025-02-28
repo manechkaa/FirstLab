@@ -3,10 +3,10 @@
 //
 
 #include <iostream>
-#include "utils.cpp"
+#include "utils.hpp"
 
 int main() {
-    int a = 4567;
+    int a = 4;
     int b = 9999999;
     
     std::cout << sum(a, b) << '\n';

@@ -3,6 +3,5 @@ project(FirstLab)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FirstLab
-        src/main.cpp
-        src/utils.cpp)
+add_subdirectory(src)
+

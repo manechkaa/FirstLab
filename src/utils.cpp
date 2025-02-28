@@ -1,6 +1,8 @@
 //
 // Created by maria on 18.02.2025.
 //
+#include "utils.hpp"
+
 int sum(int a, int b) {
     return a + b;
 }
